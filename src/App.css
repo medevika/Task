@@ -1,0 +1,28 @@
+
+.App-logo {
+    height: 50px;
+}
+
+.App-header {
+  background-color: #aba9a9;
+  margin-left: 175px;
+  margin-right: 175px;
+  height: 100px;
+  padding: 10px;
+  color: white;
+  font-size: 30px;
+
+}
+
+
+.App-header1 {
+  background-color: #F5F5F5 ;
+  margin-left: 175px;
+  margin-right: 175px;
+  height: 1000px;
+  padding: 10px;
+  color:#2F4F4F ;
+  font-size: 15px;
+  text-indent: 20px;
+
+}
